@@ -22,7 +22,7 @@ function renderLeads() {
   for (let i = 0; i < myLeads.length; i++) {
       listItems += `
       <li>
-          <a href='https://brandonzane.com' target='_blank'>
+          <a href='https://www.linkedin.com/in/faizanhabib' target='_blank'>
           ${myLeads[i]}
           </a>
       </li>
